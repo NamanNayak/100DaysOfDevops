@@ -1,5 +1,5 @@
 ## Linux File System 
-There are file sysytem directories resides in Linux.
+There are file system directories resides in Linux.
 
 - **root**
     
@@ -11,7 +11,7 @@ There are file sysytem directories resides in Linux.
 
 - **/dev**
 
-    Contains device file for hardwares.
+    Contains device file for hardware's.
 
 - **/etc**
 
@@ -35,8 +35,8 @@ There are file sysytem directories resides in Linux.
 
 - **/var**
 
-    his file system holds the changeable files like log files, MySQL, and other database files, web server data files.
+    This file system holds the changeable files like log files, MySQL, and other database files, web server data files.
 
 - **/proc**
 
-    This file system holds “imaginary” files. These files don’t exist in the computer’s hard drives. It will show he data stored into your computer’s memory
+    This file system holds “imaginary” files. These files don’t exist in the computer’s hard drives. It will show he data stored into your computer’s memory.
