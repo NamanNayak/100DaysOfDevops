@@ -19,3 +19,9 @@
 - git commit -m "Initial commit"
     
     This creates a new commit with the given message. A commit is like a save or snapshot of your entire project.
+
+- git config --global user.name "Your Name"
+  
+  git config --global user.email mail@example.com
+
+    To declare an identity for a single repository, use git config inside a repo. This will store the setting inside the individual repository.
