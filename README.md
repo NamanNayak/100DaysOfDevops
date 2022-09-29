@@ -11,3 +11,4 @@ A Repository consists of the learning path I go through.
 - Docker
 - Kubernetes
 - Jenkins
+- Cloud Platform
